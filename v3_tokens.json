@@ -1,0 +1,278 @@
+{
+    "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+        "symbol": "USDC",
+        "decimals": 6
+    },
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+        "symbol": "WETH",
+        "decimals": 18
+    },
+    "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+        "symbol": "USDT",
+        "decimals": 6
+    },
+    "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
+        "symbol": "WBTC",
+        "decimals": 8
+    },
+    "0x6b175474e89094c44da98b954eedeac495271d0f": {
+        "symbol": "DAI",
+        "decimals": 18
+    },
+    "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": {
+        "symbol": "wstETH",
+        "decimals": 18
+    },
+    "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf": {
+        "symbol": "cbBTC",
+        "decimals": 8
+    },
+    "0x4c9edd5852cd905f086c759e8383e09bff1e68b3": {
+        "symbol": "USDe",
+        "decimals": 18
+    },
+    "0x514910771af9ca656af840dff83e8264ecf986ca": {
+        "symbol": "LINK",
+        "decimals": 18
+    },
+    "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": {
+        "symbol": "UNI",
+        "decimals": 18
+    },
+    "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee": {
+        "symbol": "weETH",
+        "decimals": 18
+    },
+    "0x4d224452801aced8b2f0aebe155379bb5d594381": {
+        "symbol": "APE",
+        "decimals": 18
+    },
+    "0xf4d2888d29d722226fafa5d9b24f9164c092421e": {
+        "symbol": "LOOKS",
+        "decimals": 18
+    },
+    "0x956f47f50a910163d8bf957cf5846d573e7f87ca": {
+        "symbol": "FEI",
+        "decimals": 18
+    },
+    "0x6982508145454ce325ddbe47a25d4ec3d2311933": {
+        "symbol": "PEPE",
+        "decimals": 18
+    },
+    "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39": {
+        "symbol": "HEX",
+        "decimals": 8
+    },
+    "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0": {
+        "symbol": "MATIC",
+        "decimals": 18
+    },
+    "0x50327c6c5a14dcade707abad2e27eb517df87ab5": {
+        "symbol": "TRX",
+        "decimals": 6
+    },
+    "0xae78736cd615f374d3085123a210448e74fc6393": {
+        "symbol": "rETH",
+        "decimals": 18
+    },
+    "0x5a98fcbea516cf06857215779fd812ca3bef1b32": {
+        "symbol": "LDO",
+        "decimals": 18
+    },
+    "0xa47c8bf37f92abed4a126bda807a7b7498661acd": {
+        "symbol": "UST",
+        "decimals": 18
+    },
+    "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9": {
+        "symbol": "AAVE",
+        "decimals": 18
+    },
+    "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2": {
+        "symbol": "MKR",
+        "decimals": 18
+    },
+    "0xbf5495efe5db9ce00f80364c8b423567e58d2110": {
+        "symbol": "ezETH",
+        "decimals": 18
+    },
+    "0x853d955acef822db058eb8505911ed77f175b99e": {
+        "symbol": "FRAX",
+        "decimals": 18
+    },
+    "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72": {
+        "symbol": "ENS",
+        "decimals": 18
+    },
+    "0x18084fba666a33d37592fa2633fd49a74dd93a88": {
+        "symbol": "tBTC",
+        "decimals": 18
+    },
+    "0x57e114b691db790c35207b2e685d4a43181e6061": {
+        "symbol": "ENA",
+        "decimals": 18
+    },
+    "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3": {
+        "symbol": "ONDO",
+        "decimals": 18
+    },
+    "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd": {
+        "symbol": "ETH2x-FLI",
+        "decimals": 18
+    },
+    "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": {
+        "symbol": "SHIB",
+        "decimals": 18
+    },
+    "0xbe9895146f7af43049ca1c1ae358b0541ea49704": {
+        "symbol": "cbETH",
+        "decimals": 18
+    },
+    "0xd31a59c85ae9d8edefec411d448f90841571b89c": {
+        "symbol": "SOL",
+        "decimals": 9
+    },
+    "0x9d39a5de30e57443bff2a8307a4256c8797a3497": {
+        "symbol": "sUSDe",
+        "decimals": 18
+    },
+    "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b": {
+        "symbol": "AXS",
+        "decimals": 18
+    },
+    "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e": {
+        "symbol": "Metis",
+        "decimals": 18
+    },
+    "0x5f98805a4e8be255a32880fdec7f6728c6568ba0": {
+        "symbol": "LUSD",
+        "decimals": 18
+    },
+    "0x92d6c1e31e14520e676a687f0a93788b716beff5": {
+        "symbol": "DYDX",
+        "decimals": 18
+    },
+    "0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44": {
+        "symbol": "wTAO",
+        "decimals": 9
+    },
+    "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d": {
+        "symbol": "RLB",
+        "decimals": 18
+    },
+    "0x4e15361fd6b4bb609fa63c81a2be19d873717870": {
+        "symbol": "FTM",
+        "decimals": 18
+    },
+    "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da": {
+        "symbol": "GALA",
+        "decimals": 8
+    },
+    "0xfa2b947eec368f42195f24f36d2af29f7c24cec2": {
+        "symbol": "USDf",
+        "decimals": 18
+    },
+    "0xbdf43ecadc5cef51b7d1772f722e40596bc1788b": {
+        "symbol": "SEI",
+        "decimals": 18
+    },
+    "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8": {
+        "symbol": "agEUR",
+        "decimals": 18
+    },
+    "0x437cc33344a0b27a429f795ff6b469c72698b291": {
+        "symbol": "wM",
+        "decimals": 6
+    },
+    "0x5283d291dbcf85356a21ba090e6db59121208b44": {
+        "symbol": "BLUR",
+        "decimals": 18
+    },
+    "0x4fabb145d64652a948d72533023f6e7a623c7c53": {
+        "symbol": "BUSD",
+        "decimals": 18
+    },
+    "0x4a220e6096b25eadb88358cb44068a3248254675": {
+        "symbol": "QNT",
+        "decimals": 18
+    },
+    "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c": {
+        "symbol": "EUROC",
+        "decimals": 6
+    },
+    "0x45804880de22913dafe09f4980848ece6ecbaf78": {
+        "symbol": "PAXG",
+        "decimals": 18
+    },
+    "0xec53bf9167f50cdeb3ae105f56099aaab9061f83": {
+        "symbol": "EIGEN",
+        "decimals": 18
+    },
+    "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3": {
+        "symbol": "MIM",
+        "decimals": 18
+    },
+    "0x6123b0049f904d730db3c36a31167d9d4121fa6b": {
+        "symbol": "RBN",
+        "decimals": 18
+    },
+    "0x32353a6c91143bfd6c7d363b546e62a9a2489a20": {
+        "symbol": "AGLD",
+        "decimals": 18
+    },
+    "0xd33526068d116ce69f19a9ee46f0bd304f21a51f": {
+        "symbol": "RPL",
+        "decimals": 18
+    },
+    "0x990f341946a3fdb507ae7e52d17851b87168017c": {
+        "symbol": "STRONG",
+        "decimals": 18
+    },
+    "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919": {
+        "symbol": "RAI",
+        "decimals": 18
+    },
+    "0xc581b735a1688071a1746c968e0798d642ede491": {
+        "symbol": "EURT",
+        "decimals": 6
+    },
+    "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d": {
+        "symbol": "renBTC",
+        "decimals": 8
+    },
+    "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206": {
+        "symbol": "NEXO",
+        "decimals": 18
+    },
+    "0x9e9fbde7c7a83c43913bddc8779158f1368f0413": {
+        "symbol": "PANDORA",
+        "decimals": 18
+    },
+    "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5": {
+        "symbol": "USD0",
+        "decimals": 18
+    },
+    "0xb23d80f5fefcddaa212212f028021b41ded428cf": {
+        "symbol": "PRIME",
+        "decimals": 18
+    },
+    "0x090185f2135308bad17527004364ebcc2d37e5f6": {
+        "symbol": "SPELL",
+        "decimals": 18
+    },
+    "0xdb25f211ab05b1c97d595516f45794528a807ad8": {
+        "symbol": "EURS",
+        "decimals": 2
+    },
+    "0xd533a949740bb3306d119cc777fa900ba034cd52": {
+        "symbol": "CRV",
+        "decimals": 18
+    },
+    "0xbc396689893d065f41bc2c6ecbee5e0085233447": {
+        "symbol": "PERP",
+        "decimals": 18
+    },
+    "0x38e382f74dfb84608f3c1f10187f6bef5951de93": {
+        "symbol": "MUBI",
+        "decimals": 18
+    }
+}

@@ -1,0 +1,602 @@
+{
+    "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640": {
+        "name": "USDC/WETH (0.05%)",
+        "token0": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.05
+    },
+    "0x11b815efb8f581194ae79006d24e0d814b7697f6": {
+        "name": "WETH/USDT (0.05%)",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.05
+    },
+    "0x3416cf6c708da44db2624d63ea0aaef7113527c6": {
+        "name": "USDC/USDT (0.01%)",
+        "token0": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.01
+    },
+    "0x4585fe77225b41b697c938b018e2ac67ac5a20c0": {
+        "name": "WBTC/WETH (0.05%)",
+        "token0": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.05
+    },
+    "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8": {
+        "name": "USDC/WETH (0.3%)",
+        "token0": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0xc7bbec68d12a0d1830360f8ec58fa599ba1b0e9b": {
+        "name": "WETH/USDT (0.01%)",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.01
+    },
+    "0x4e68ccd3e89f51c3074ca5072bbac773960dfa36": {
+        "name": "WETH/USDT (0.3%)",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.3
+    },
+    "0xe0554a476a092703abdb3ef35c80e0d76d32939f": {
+        "name": "USDC/WETH (0.01%)",
+        "token0": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.01
+    },
+    "0xcbcdf9626bc03e24f779434178a73a0b4bad62ed": {
+        "name": "WBTC/WETH (0.3%)",
+        "token0": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x60594a405d53811d3bc4766596efd80fd545a270": {
+        "name": "DAI/WETH (0.05%)",
+        "token0": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.05
+    },
+    "0x109830a1aaad605bbf02a9dfa7b0b92ec2fb7daa": {
+        "name": "wstETH/WETH (0.01%)",
+        "token0": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.01
+    },
+    "0x99ac8ca7087fa4a2a1fb6357269965a2014abc35": {
+        "name": "WBTC/USDC (0.3%)",
+        "token0": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.3
+    },
+    "0x5777d92f208679db4b9778590fa3cab3ac9e2168": {
+        "name": "DAI/USDC (0.01%)",
+        "token0": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.01
+    },
+    "0xe8f7c89c5efa061e340f2d2f206ec78fd8f7e124": {
+        "name": "WBTC/cbBTC (0.01%)",
+        "token0": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "token1": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+        "fee_tier": 0.01
+    },
+    "0x435664008f38b0650fbc1c9fc971d0a3bc2f1e47": {
+        "name": "USDe/USDT (0.01%)",
+        "token0": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.01
+    },
+    "0x7858e59e0c01ea06df3af3d20ac7b0003275d4bf": {
+        "name": "USDC/USDT (0.05%)",
+        "token0": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.05
+    },
+    "0xc2e9f25be6257c210d7adf0d4cd6e3e881ba25f8": {
+        "name": "DAI/WETH (0.3%)",
+        "token0": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8": {
+        "name": "LINK/WETH (0.3%)",
+        "token0": "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x9a772018fbd77fcd2d25657e5c547baff3fd7d16": {
+        "name": "WBTC/USDC (0.05%)",
+        "token0": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.05
+    },
+    "0x56534741cd8b152df6d48adf7ac51f75169a83b2": {
+        "name": "WBTC/USDT (0.05%)",
+        "token0": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.05
+    },
+    "0x1d42064fc4beb5f8aaf85f4617ae8b3b5b8bd801": {
+        "name": "UNI/WETH (0.3%)",
+        "token0": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x9db9e0e53058c89e5b94e29621a205198648425b": {
+        "name": "WBTC/USDT (0.3%)",
+        "token0": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.3
+    },
+    "0x48da0965ab2d2cbf1c17c09cfb5cbe67ad5b1406": {
+        "name": "DAI/USDT (0.01%)",
+        "token0": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.01
+    },
+    "0x6c6bc977e13df9b0de53b251522280bb72383700": {
+        "name": "DAI/USDC (0.05%)",
+        "token0": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.05
+    },
+    "0x202a6012894ae5c288ea824cbc8a9bfb26a49b93": {
+        "name": "WETH/weETH (0.01%)",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+        "fee_tier": 0.01
+    },
+    "0xac4b3dacb91461209ae9d41ec517c2b9cb1b7daf": {
+        "name": "APE/WETH (0.3%)",
+        "token0": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x4b5ab61593a2401b1075b90c04cbcdd3f87ce011": {
+        "name": "WETH/LOOKS (0.3%)",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xf4d2888d29d722226fafa5d9b24f9164c092421e",
+        "fee_tier": 0.3
+    },
+    "0x8c54aa2a32a779e6f6fbea568ad85a19e0109c26": {
+        "name": "FEI/USDC (0.05%)",
+        "token0": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.05
+    },
+    "0x11950d141ecb863f01007add7d1a342041227b58": {
+        "name": "PEPE/WETH (0.3%)",
+        "token0": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x69d91b94f0aaf8e8a2586909fa77a5c2c89818d5": {
+        "name": "HEX/USDC (0.3%)",
+        "token0": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.3
+    },
+    "0x290a6a7460b308ee3f19023d2d00de604bcf5b42": {
+        "name": "MATIC/WETH (0.3%)",
+        "token0": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x99950bae3d0b79b8bee86a8a208ae1b087b9dcb0": {
+        "name": "TRX/WETH (0.05%)",
+        "token0": "0x50327c6c5a14dcade707abad2e27eb517df87ab5",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.05
+    },
+    "0x553e9c493678d8606d6a5ba284643db2110df823": {
+        "name": "rETH/WETH (0.01%)",
+        "token0": "0xae78736cd615f374d3085123a210448e74fc6393",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.01
+    },
+    "0xa3f558aebaecaf0e11ca4b2199cc5ed341edfd74": {
+        "name": "LDO/WETH (0.3%)",
+        "token0": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x18d96b617a3e5c42a2ada4bc5d1b48e223f17d0d": {
+        "name": "USDC/UST (0.01%)",
+        "token0": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "token1": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+        "fee_tier": 0.01
+    },
+    "0x5ab53ee1d50eef2c1dd3d5402789cd27bb52c1bb": {
+        "name": "AAVE/WETH (0.3%)",
+        "token0": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0xe8c6c9227491c0a8156a0106a0204d881bb7e531": {
+        "name": "MKR/WETH (0.3%)",
+        "token0": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0xbe80225f09645f172b079394312220637c440a63": {
+        "name": "ezETH/WETH (0.01%)",
+        "token0": "0xbf5495efe5db9ce00f80364c8b423567e58d2110",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.01
+    },
+    "0x7a415b19932c0105c82fdb6b720bb01b0cc2cae3": {
+        "name": "WETH/weETH (0.05%)",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+        "fee_tier": 0.05
+    },
+    "0xc63b0708e2f7e69cb8a1df0e1389a98c35a76d52": {
+        "name": "FRAX/USDC (0.05%)",
+        "token0": "0x853d955acef822db058eb8505911ed77f175b99e",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.05
+    },
+    "0x92560c178ce069cc014138ed3c2f5221ba71f58a": {
+        "name": "WETH/ENS (0.3%)",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+        "fee_tier": 0.3
+    },
+    "0x73a38006d23517a1d383c88929b2014f8835b38b": {
+        "name": "tBTC/WBTC (0.01%)",
+        "token0": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
+        "token1": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "fee_tier": 0.01
+    },
+    "0xe6d7ebb9f1a9519dc06d557e03c522d53520e76a": {
+        "name": "USDe/USDC (0.01%)",
+        "token0": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.01
+    },
+    "0xc3db44adc1fcdfd5671f555236eae49f4a8eea18": {
+        "name": "ENA/WETH (0.3%)",
+        "token0": "0x57e114b691db790c35207b2e685d4a43181e6061",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x7b1e5d984a43ee732de195628d20d05cfabc3cc7": {
+        "name": "WETH/ONDO (0.3%)",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
+        "fee_tier": 0.3
+    },
+    "0x151ccb92bc1ed5c6d0f9adb5cec4763ceb66ac7f": {
+        "name": "ETH2x-FLI/WETH (0.3%)",
+        "token0": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x2f62f2b4c5fcd7570a709dec05d68ea19c82a9ec": {
+        "name": "SHIB/WETH (0.3%)",
+        "token0": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x840deeef2f115cf50da625f7368c24af6fe74410": {
+        "name": "cbETH/WETH (0.05%)",
+        "token0": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.05
+    },
+    "0x127452f3f9cdc0389b0bf59ce6131aa3bd763598": {
+        "name": "WETH/SOL (0.3%)",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xd31a59c85ae9d8edefec411d448f90841571b89c",
+        "fee_tier": 0.3
+    },
+    "0x92995d179a5528334356cb4dc5c6cbb1c068696c": {
+        "name": "USDC/UST (0.05%)",
+        "token0": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "token1": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+        "fee_tier": 0.05
+    },
+    "0x6f48eca74b38d2936b02ab603ff4e36a6c0e3a77": {
+        "name": "DAI/USDT (0.05%)",
+        "token0": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.05
+    },
+    "0x7eb59373d63627be64b42406b108b602174b4ccc": {
+        "name": "sUSDe/USDT (0.01%)",
+        "token0": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.01
+    },
+    "0x9e0905249ceefffb9605e034b534544684a58be6": {
+        "name": "HEX/WETH (0.3%)",
+        "token0": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x3019d4e366576a88d28b623afaf3ecb9ec9d9580": {
+        "name": "AXS/WETH (0.3%)",
+        "token0": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0xe6ff8b9a37b0fab776134636d9981aa778c4e718": {
+        "name": "WBTC/WETH (0.01%)",
+        "token0": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.01
+    },
+    "0x1c98562a2fab5af19d8fb3291a36ac3c618835d9": {
+        "name": "Metis/WETH (0.3%)",
+        "token0": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x4e0924d3a751be199c426d52fb1f2337fa96f736": {
+        "name": "LUSD/USDC (0.05%)",
+        "token0": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.05
+    },
+    "0x9a834b70c07c81a9fcd6f22e842bf002fbffbe4d": {
+        "name": "FRAX/USDC (0.01%)",
+        "token0": "0x853d955acef822db058eb8505911ed77f175b99e",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.01
+    },
+    "0x5764a6f2212d502bc5970f9f129ffcd61e5d7563": {
+        "name": "SHIB/WETH (1.0%)",
+        "token0": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 1.0
+    },
+    "0xd8de6af55f618a7bc69835d55ddc6582220c36c0": {
+        "name": "DYDX/WETH (0.3%)",
+        "token0": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x2982d3295a0e1a99e6e88ece0e93ffdfc5c761ae": {
+        "name": "wTAO/WETH (0.3%)",
+        "token0": "0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x510100d5143e011db24e2aa38abe85d73d5b2177": {
+        "name": "RLB/WETH (0.3%)",
+        "token0": "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0xbb2e5c2ff298fd96e166f90c8abacaf714df14f8": {
+        "name": "DAI/FEI (0.05%)",
+        "token0": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "token1": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+        "fee_tier": 0.05
+    },
+    "0x3b685307c8611afb2a9e83ebc8743dc20480716e": {
+        "name": "FTM/WETH (1.0%)",
+        "token0": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 1.0
+    },
+    "0xf8a95b2409c27678a6d18d950c5d913d5c38ab03": {
+        "name": "GALA/WETH (0.3%)",
+        "token0": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0xc275a7390966e4bcbf331b837cd7316c4a3efa83": {
+        "name": "USDT/USDf (0.01%)",
+        "token0": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "token1": "0xfa2b947eec368f42195f24f36d2af29f7c24cec2",
+        "fee_tier": 0.01
+    },
+    "0xf8e349d1d827a6edf17ee673664cfad4ca78c533": {
+        "name": "USDC/SEI (0.3%)",
+        "token0": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "token1": "0xbdf43ecadc5cef51b7d1772f722e40596bc1788b",
+        "fee_tier": 0.3
+    },
+    "0xa4e0faa58465a2d369aa21b3e42d43374c6f9613": {
+        "name": "rETH/WETH (0.05%)",
+        "token0": "0xae78736cd615f374d3085123a210448e74fc6393",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.05
+    },
+    "0x735a26a57a0a0069dfabd41595a970faf5e1ee8b": {
+        "name": "agEUR/USDC (0.01%)",
+        "token0": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.01
+    },
+    "0x970a7749ecaa4394c8b2bf5f2471f41fd6b79288": {
+        "name": "wM/USDC (0.01%)",
+        "token0": "0x437cc33344a0b27a429f795ff6b469c72698b291",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.01
+    },
+    "0x824a30f2984f9013f2c8d0a29c0a3cc5fd5c0673": {
+        "name": "BLUR/WETH (0.3%)",
+        "token0": "0x5283d291dbcf85356a21ba090e6db59121208b44",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x5e35c4eba72470ee1177dcb14dddf4d9e6d915f4": {
+        "name": "BUSD/USDC (0.01%)",
+        "token0": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.01
+    },
+    "0x24ee2c6b9597f035088cda8575e9d5e15a84b9df": {
+        "name": "QNT/WETH (0.3%)",
+        "token0": "0x4a220e6096b25eadb88358cb44068a3248254675",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x95dbb3c7546f22bce375900abfdd64a4e5bd73d6": {
+        "name": "EUROC/USDC (0.05%)",
+        "token0": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.05
+    },
+    "0x5ae13baaef0620fdae1d355495dc51a17adb4082": {
+        "name": "PAXG/USDC (0.05%)",
+        "token0": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.05
+    },
+    "0xc2c390c6cd3c4e6c2b70727d35a45e8a072f18ca": {
+        "name": "WETH/EIGEN (0.3%)",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+        "fee_tier": 0.3
+    },
+    "0xdf50fbde8180c8785842c8e316ebe06f542d3443": {
+        "name": "FEI/USDC (0.01%)",
+        "token0": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.01
+    },
+    "0x298b7c5e0770d151e4c5cf6cca4dae3a3ffc8e27": {
+        "name": "MIM/USDC (0.05%)",
+        "token0": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.05
+    },
+    "0x94981f69f7483af3ae218cbfe65233cc3c60d93a": {
+        "name": "RBN/WETH (1.0%)",
+        "token0": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 1.0
+    },
+    "0x867b321132b18b5bf3775c0d9040d1872979422e": {
+        "name": "sUSDe/USDT (0.05%)",
+        "token0": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.05
+    },
+    "0x5d752f322befb038991579972e912b02f61a3dda": {
+        "name": "AGLD/WETH (1.0%)",
+        "token0": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 1.0
+    },
+    "0xe42318ea3b998e8355a3da364eb9d48ec725eb45": {
+        "name": "WETH/RPL (0.3%)",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+        "fee_tier": 0.3
+    },
+    "0xd34e4855146ac0c6d0e4a652bd5fb54830f91ba8": {
+        "name": "STRONG/WETH (0.3%)",
+        "token0": "0x990f341946a3fdb507ae7e52d17851b87168017c",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0xcb0c5d9d92f4f2f80cce7aa271a1e148c226e19d": {
+        "name": "RAI/DAI (0.05%)",
+        "token0": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+        "token1": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "fee_tier": 0.05
+    },
+    "0x07f3d316630719f4fc69c152f397c150f0831071": {
+        "name": "EURT/USDT (0.05%)",
+        "token0": "0xc581b735a1688071a1746c968e0798d642ede491",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.05
+    },
+    "0x3730ecd0aa7eb9b35a4e89b032bef80a1a41aa7f": {
+        "name": "WBTC/renBTC (0.05%)",
+        "token0": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "token1": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+        "fee_tier": 0.05
+    },
+    "0x4c54ff7f1c424ff5487a32aad0b48b19cbaf087f": {
+        "name": "NEXO/WETH (0.3%)",
+        "token0": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x1df4c6e36d61416813b42fe32724ef11e363eddc": {
+        "name": "PANDORA/WETH (1.0%)",
+        "token0": "0x9e9fbde7c7a83c43913bddc8779158f1368f0413",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 1.0
+    },
+    "0x4e665157291dbcb25152ebb01061e4012f58add2": {
+        "name": "USD0/USDC (0.01%)",
+        "token0": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.01
+    },
+    "0x97e7d56a0408570ba1a7852de36350f7713906ec": {
+        "name": "DAI/FRAX (0.05%)",
+        "token0": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "token1": "0x853d955acef822db058eb8505911ed77f175b99e",
+        "fee_tier": 0.05
+    },
+    "0x16588709ca8f7b84829b43cc1c5cb7e84a321b16": {
+        "name": "PRIME/WETH (0.3%)",
+        "token0": "0xb23d80f5fefcddaa212212f028021b41ded428cf",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0xfebf38b1d34818d4827034f97b7d6d77c79d4997": {
+        "name": "SPELL/WETH (0.3%)",
+        "token0": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0xf79fc43494ce8a4613cb0b2a67a1b1207fd05d27": {
+        "name": "APE/WETH (1.0%)",
+        "token0": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 1.0
+    },
+    "0xc2a856c3aff2110c1171b8f942256d40e980c726": {
+        "name": "FRAX/USDT (0.05%)",
+        "token0": "0x853d955acef822db058eb8505911ed77f175b99e",
+        "token1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "fee_tier": 0.05
+    },
+    "0xbd5fdda17bc27bb90e37df7a838b1bfc0dc997f5": {
+        "name": "USDC/EURS (0.05%)",
+        "token0": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "token1": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+        "fee_tier": 0.05
+    },
+    "0x919fa96e88d67499339577fa202345436bcdaf79": {
+        "name": "WETH/CRV (0.3%)",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+        "fee_tier": 0.3
+    },
+    "0xcd83055557536eff25fd0eafbc56e74a1b4260b3": {
+        "name": "PERP/WETH (0.3%)",
+        "token0": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 0.3
+    },
+    "0x844eb5c280f38c7462316aad3f338ef9bda62668": {
+        "name": "MUBI/WETH (1.0%)",
+        "token0": "0x38e382f74dfb84608f3c1f10187f6bef5951de93",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "fee_tier": 1.0
+    },
+    "0xfe0df74636bc25c7f2400f22fe7dae32d39443d2": {
+        "name": "RBN/USDC (0.3%)",
+        "token0": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.3
+    },
+    "0x5180545835bd68810fb7e11c7160bb7ea4ae8744": {
+        "name": "FEI/USDC (0.3%)",
+        "token0": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+        "token1": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "fee_tier": 0.3
+    }
+}
